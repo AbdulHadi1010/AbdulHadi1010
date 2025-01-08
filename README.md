@@ -1,5 +1,46 @@
-# 💫 About Me:
-👋 Hello and welcome to my GitHub repository! I am a university student currently pursuing a BSc in Computer Science from University of Central Punjab. I am currently learning React.js, React Native, and I am also completing the Google IT Support Specialist course 📚💻💡. Currently workinh on following languages and projects. Hope you like it ❤.<br><br>🚀 Within this repository, you will find four projects that showcase my skills and knowledge in these areas. Each project highlights different aspects of my learning journey and demonstrates my ability to create effective and efficient solutions. 🏆💪<br><br>🌐 The first project is a React.js application that utilizes API calls to fetch and display data from a server. It showcases my ability to work with asynchronous JavaScript code and handle data manipulation. 📊👨‍💻<br><br>📱 My second project is a React Native application to make mobile application for both Andriod and IOS. This project demonstrates my ability to work with mobile app development frameworks and integrate external APIs. 🗺️📲<br><br>💻 The third project is a web application built with React.js that utilizes Firebase for real-time data synchronization. It demonstrates my ability to work with cloud-based solutions and implement robust backend functionality. 🌩️🔧<br><br>🔧 Finally, my fourth project is a Google IT Support Specialist course project that highlights my knowledge in networking, security, and troubleshooting. This project showcases my ability to work with diverse technologies and apply critical thinking skills to solve complex problems. 🛡️🔍💡<br><br>🙏 Thank you for taking the time to visit my GitHub repository. If you have any questions or would like to collaborate on a project, please feel free to reach out to me. 🤝📩
+👋 Hi there! I'm Abdul Hadi
+🚀 Certified Kubernetes Administrator & AWS Solutions Architect | Cloud-Native Enthusiast | DevSecOps Engineer
+💫 About Me:
+I'm a Solutions Architect at SazebTech Consulting, passionate about building scalable cloud-native solutions and implementing cutting-edge DevSecOps practices. My expertise spans across:
+🛡️ Security-First Cloud Architecture
+🔄 CI/CD Pipeline Optimization
+🎯 Kubernetes Orchestration
+☁️ Multi-Cloud Infrastructure
+🔐 Zero-Trust Security Implementation
+🔧 Tech Stack:
+
+Container Orchestration: Kubernetes, Docker
+Cloud Platforms: AWS, Azure
+Infrastructure as Code: Terraform, Ansible
+CI/CD: Jenkins, GitHub Actions
+Monitoring: Prometheus, Grafana
+Security Tools: Vault, Trivy, SonarQube
+
+🌱 Currently diving deep into:
+
+Service Mesh Architecture with Istio
+GitOps practices with ArgoCD
+Cloud-Native Security Patterns
+Zero-Trust Architecture Implementation
+FinOps Optimization Strategies
+
+📈 My contributions include:
+
+Leading enterprise-level cloud migrations
+Implementing secure microservices architectures
+Optimizing cloud infrastructure costs
+Automating security compliance checks
+Building resilient, self-healing systems
+
+🎓 Credentials:
+
+Certified Kubernetes Administrator (CKA)
+AWS Solutions Architect
+Azure Fundamentals Certified
+
+💬 Let's connect and collaborate on building the future of cloud-native infrastructure!
+⚡ Fun fact: Speed Coding winner at PUCON'23 - because sometimes you need to move fast and not break things!
+📫 Reach me: hadi2408466@gmail.com | LinkedIn
 
 
 ## 🌐 Socials:
